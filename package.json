@@ -1,0 +1,19 @@
+{
+  "name": "itsnmptrap",
+  "version": "0.0.1",
+  "description": "An snmp trap receiver router, similar in concept to the HTTP request routing in the likes of Expressjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snmp",
+    "trap",
+    "receiver"
+  ],
+  "author": "snoj <josh@snoj.us>",
+  "license": "mit",
+  "dependencies": {
+    "snmp-native": "^1.0.17"
+  }
+}
